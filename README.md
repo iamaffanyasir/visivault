@@ -2,14 +2,14 @@
   <img src="assets/images/securio-logo.png" width="100%" alt="Securio Logo"/>
 </p>
 
-<h1 align="center">🔐 Securio</h1>
+<h1 align="center">🔐 Visivault</h1>
 <p align="center">A 100% Offline, AES-256 Encrypted Password Manager</p>
 
 ---
 
 ## 🚀 Overview
 
-**Securio** is a privacy-first, offline password manager built using **Electron + React**.  
+**Visivault** is a privacy-first, offline password manager built using **Electron + React**.  
 All your passwords, notes, and sensitive information are stored **only on your device** and secured with **AES-256 military-grade encryption**.  
 Nothing is uploaded, synced, or shared — complete data ownership remains with you.
 
@@ -29,9 +29,9 @@ Nothing is uploaded, synced, or shared — complete data ownership remains with 
 
 ---
 
-## 📥 Download Securio
+## 📥 Download Visivault
 
-👉 **[Download Latest Windows Installer (EXE)](https://github.com/iamaffanyasir/securio/releases/download/v1.0.0b/Securio-Setup-1.0.0.exe)**  
+👉 **[Download Latest Windows Installer (EXE)](https://github.com/iamaffanyasir/Visivault/releases/download/v1.0.0b/Securio-Setup-1.0.0.exe)**  
 We provide the official `.exe` installer for Windows.
 
 ---
